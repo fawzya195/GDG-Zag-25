@@ -1,0 +1,14 @@
+
+  body {
+    font-family: "Open Sans", sans-serif;
+    color: black;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  select {
+    margin: 10px;
+    padding: 5px;
+  }
+
